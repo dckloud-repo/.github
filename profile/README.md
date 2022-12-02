@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
 👋 Hi, I’m Danidu and facinated with all most all the Azure Cloud
 
 👀 I’m interested in Azure Devops, Azure Infrastrcutre and Cyber Security
@@ -15,6 +9,12 @@
 📫 How to reach me @ danidu@dckloud.com
 
 😄 Pronouns : he/him/his
+
+<!--
+
+**Here are some ideas to get you started:**
+
+
 
 
 -->
